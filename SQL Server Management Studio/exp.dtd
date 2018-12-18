@@ -1,0 +1,7 @@
+<!DOCTYPE Products [
+	<!ELEMENT Product (ID, var1, valid_from_dttm, valid_to_dttm)>
+	<!ELEMENT ID (#PCDATA)>
+    <!ELEMENT var1 (#PCDATA)>
+    <!ELEMENT valid_from_dttm (#PCDATA)>
+    <!ELEMENT valid_to_dttm (#PCDATA)>
+ ]>

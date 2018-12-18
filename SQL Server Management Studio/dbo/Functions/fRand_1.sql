@@ -1,0 +1,1 @@
+﻿CREATE FUNCTION fRand(@min int, @max int) RETURNS FLOAT BEGIN RETURN CAST((SELECT V*(@max-@min+1)+@min FROM vRand)AS int); END;

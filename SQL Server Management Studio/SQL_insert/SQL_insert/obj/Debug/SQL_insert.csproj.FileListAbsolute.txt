@@ -1,0 +1,7 @@
+c:\users\sudde\source\repos\SQL_insert\SQL_insert\obj\Debug\SQL_insert.csprojAssemblyReference.cache
+c:\users\sudde\source\repos\SQL_insert\SQL_insert\obj\Debug\SQL_insert.csproj.CoreCompileInputs.cache
+c:\users\sudde\source\repos\SQL_insert\SQL_insert\bin\Debug\SQL_insert.exe.config
+c:\users\sudde\source\repos\SQL_insert\SQL_insert\bin\Debug\SQL_insert.exe
+c:\users\sudde\source\repos\SQL_insert\SQL_insert\bin\Debug\SQL_insert.pdb
+c:\users\sudde\source\repos\SQL_insert\SQL_insert\obj\Debug\SQL_insert.exe
+c:\users\sudde\source\repos\SQL_insert\SQL_insert\obj\Debug\SQL_insert.pdb

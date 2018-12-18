@@ -1,0 +1,14 @@
+﻿<Products>
+  <Product>
+    <ID>1</ID>
+    <var1>A</var1>
+    <valid_from_dttm>2018-09-01</valid_from_dttm>
+    <valid_to_dttm>2018-09-15</valid_to_dttm>
+  </Product>
+  <Product>
+    <ID>1</ID>
+    <var1>B</var1>
+    <valid_from_dttm>2018-09-16</valid_from_dttm>
+    <valid_to_dttm>5999-12-31</valid_to_dttm>
+  </Product>
+</Products>
